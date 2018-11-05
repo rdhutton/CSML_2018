@@ -11,5 +11,5 @@ The repo contains three groups of programs or notebooks :
 |Module|Purpose|
 |-------------|----------|
 |analysis00.py|Summary stats of data (average length of article etc, write up section 4.3)|
-|analysis08.py|Occurences in annotaions histograms (write up section 5.1 to 5.3|
+|analysis08.py|Occurences in annotaions histograms (write up section 5.1 to 5.3)|
 
